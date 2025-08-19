@@ -55,3 +55,6 @@ class Colors:
     TEXT = (230, 230, 230)
 
 
+
+def test1():
+    pass
