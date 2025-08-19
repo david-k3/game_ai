@@ -64,3 +64,8 @@ def test1():
 
 def test2():
     pass
+
+
+class KeyboardV2:
+    """test"""
+    pass
