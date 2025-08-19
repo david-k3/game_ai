@@ -71,3 +71,8 @@ class KeyboardV2:
     pass
 class KeyboardManager:
     KEY_UP = 10
+
+
+class ImageManger:
+    "sdf"
+    pass
