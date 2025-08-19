@@ -41,7 +41,8 @@ PADDLE_LEN_INIT = 36
 LIVES_INIT = 3
 
 # -----------------------------
-# Config data classes
+# Config data classes - 
+# 테스트
 # -----------------------------
 @dataclass
 class Colors:
@@ -50,11 +51,16 @@ class Colors:
     BALL = (255, 230, 120)
     BRICK_PALETTE = [
         (237,  64,  64), (252, 176,  64), (255, 236,  66),
-        ( 87, 213,  87), ( 64, 160, 255), (176,  96, 255)
+        ( 87, 213,  87), ( 64, 160, 255), (176,  96, 255),
     ]
-    TEXT = (230, 230, 230)
+    TEXT = (230, 230, 210)
+    TEXT2 = (123)
 
 
 
 def test1():
+    pass
+
+
+def test2():
     pass
