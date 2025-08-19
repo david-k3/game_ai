@@ -64,3 +64,7 @@ def test1():
 
 def test2():
     pass
+
+
+class KeyboardManager:
+    KEY_UP = 10
